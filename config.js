@@ -11,9 +11,9 @@ module.exports = {
   pages: {
     home: "/",
     blog: "blog",
-    contact: "contact",
+    // contact: "contact",
     resume: "resume",
-    tag: "tags",
+    // tag: "tags",
   },
   social: {
     github: "https://github.com/data-101",
