@@ -67,16 +67,16 @@ const AboutMe = () => {
             textH3="Biker for life"
           />
         </Col> */}
-        {/* <Col xs={24} sm={24} md={12} lg={8}>
+        <Col xs={24} sm={24} md={12} lg={8}>
           <AboutTile
-            img="web.png"
-            alt="web image"
-            textH4="Self Taught Programmer"
-            textH3="Thanks to the Web Resources"
-            height={60}
-            width={60}
+            img="gcp.png"
+            alt="GCP Badge"
+            textH4="Google Certified"
+            textH3="Associate Cloud Engineer"
+            height={76}
+            width={76}
           />
-        </Col> */}
+        </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
           <AboutTile
             img="graduation.png"
