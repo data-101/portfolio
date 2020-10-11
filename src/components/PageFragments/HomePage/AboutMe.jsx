@@ -6,7 +6,8 @@ import { stripTags, domHtml } from "../../../utils/stripTags"
 import SEO from "../../Seo"
 
 const pageText = {
-  paraOne: `Hi, Welcome to my site!! My name is Akash Nainani and I'm a Software Engineer.`,
+  paraOne: `Hello👋, My name is Akash Nainani and I'm a passionate Software Engineer based in India.
+   I am driven to develop software that brings value, having experience building full stack web solutions and APIs. I dabble with a variety of technology and have worked on Web, API, Mobile Application, Windows Application, Machine Learning, DevOps and Cloud.`,
   paraTwo: ``,
 }
 
