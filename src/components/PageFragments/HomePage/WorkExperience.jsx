@@ -2,9 +2,9 @@ import React from "react"
 import { Row, Col } from "antd"
 import ProgressBar from "../../Progress"
 
-const WorkExperience = () => (
+const SkillsProgress = () => (
   <div>
-    <h2>My Skills</h2>
+    <h2>Work Experience</h2>
     <Row gutter={[20, 20]}>
       <Col xs={24} sm={24} md={12}>
         <ProgressBar percent={90} text="Spring Boot" />
@@ -22,4 +22,4 @@ const WorkExperience = () => (
   </div>
 )
 
-export default WorkExperience
+export default SkillsProgress
